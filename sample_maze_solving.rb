@@ -4,7 +4,7 @@ require './lib/maze_solving.rb'
 
 # Make a maze out of the sample file
 
-maze = Maze.new("fixture_1.txt")
+maze = Maze.new("sample_maze.txt")
 
 # Print out the representation, should give us the columns, rows, start and goal as well as the "wall" positions by printing out a hashmap
 
