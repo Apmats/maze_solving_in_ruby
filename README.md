@@ -13,5 +13,5 @@ To run tests move to the test directory and run sample_maze_solving.rb from ther
 
 ```sh
 cd test
-ruby sample_maze_solving.rb
+ruby maze_solving_test.rb
 ```
