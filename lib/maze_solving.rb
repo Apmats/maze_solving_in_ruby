@@ -201,7 +201,7 @@ def path_for_node(node)
   return path.reverse
 end
 
-# Utility function that we can use to sample the above work or build our tests out of
+# Utility class with a function that we can use to sample the above work or build our tests out of
 # Attempts to follow a provided path, formatted like the output of our search functions
 # returns false if the path is not a valid path from start to goal and returns true 
 # if it does lead from the start to the goal through only valid positions on the maze grid
